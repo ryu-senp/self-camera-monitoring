@@ -1,0 +1,8 @@
+PyQt5==5.15.10
+PyQt5-sip==12.13.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+onvif-zeep==0.2.12
+zeep==4.2.1
+requests==2.31.0
+pyaudio
